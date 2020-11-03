@@ -1,0 +1,38 @@
+div {
+    text-align:center;
+}
+
+div h1 {
+    text-transform: uppercase;
+    color: #540b0e;
+}
+
+body {
+    background-color: #f4a261;
+}
+
+button {
+    background-color: #e76f51;
+    border: 2px solid #dc2f02;
+    border-radius: 20%;
+    color:#540b0e;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn {
+    background-color: #540b0e;
+    border: 2px solid #6a040f;
+    border-radius: 20%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
